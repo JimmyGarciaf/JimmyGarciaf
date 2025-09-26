@@ -1,16 +1,33 @@
-## Hi there 👋
+## ¡Hola! Soy Jimmy Garcia👋
 
-<!--
-**JimmyGarciaf/JimmyGarciaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador Frontend | Angular
 
-Here are some ideas to get you started:
+📍 Apasionado por la creación de aplicaciones web y móviles con Angular, TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Sobre mí
+
+* 💻 Desarrollador frontend enfocado en crear interfaces intuitivas y optimizadas.
+
+* 🎨 Interesado en Diseño UX/UI y mejores prácticas en desarrollo.
+
+* 📚 Siempre aprendiendo y mejorando mis habilidades.
+
+* 🛠 Pila tecnológica
+
+🔹 Idiomas: JavaScript, TypeScript
+
+🔹 Interfaz: Angular, React, React Native, Expo
+
+🔹 Estado global: Redux, Zustand
+
+🔹 Bases de datos: SQLite, Firebase
+
+🔹 Herramientas: Git/GitHub, Figma
+
+📫 Conéctate conmigo
+
+* 🌐 Portafolio
+
+* 🔗 LinkedIn
+
+¡Gracias por visitar mi perfil!
