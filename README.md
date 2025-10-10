@@ -16,11 +16,11 @@
 
 🔹 Idiomas: JavaScript, TypeScript
 
-🔹 Interfaz: Angular, React, React Native, Expo
+🔹 Interfaz: Angular
 
 🔹 Estado global: Redux, Zustand
 
-🔹 Bases de datos: SQLite, Firebase
+🔹 Bases de datos: SQ Server, Oracle, MySql, Firebase
 
 🔹 Herramientas: Git/GitHub, Figma
 
