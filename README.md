@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,js,typescript,css,html,mysql,sqlserver,git,github,docker,postman,oracle" />
+    <img src="https://skillicons.dev/icons?i=Angular-Light,js,typescript,css,html,mysql,sqlserver,git,github,docker,postman,oracle" />
   </a>
 </p>
 <br>
