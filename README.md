@@ -17,7 +17,6 @@
 
 🌟 Me encanta combinar diseño y tecnología para crear aplicaciones que sean tan agradables de usar como de ver.
 
-📫 Contacto: **jimmygarcia470@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -32,4 +31,6 @@
 <br>
 <!-------------------------->
 <br>
+Portafolio: **jimmygarcia.vercel.app**
+📫 Contacto: **jimmygarcia470@gmail.com**
 
