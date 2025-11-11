@@ -1,5 +1,6 @@
 <h1 align="center">¡Hola! Soy Jimmy García 👋</h1>
-<h3 align="center">🚀 Desarrollador Frontend | Angular 📍 Apasionado por la creación de aplicaciones web y móviles con Angular, TypeScript. 🚀 Sobre mí 🚀 Desarrollador Frontend enfocado en construir experiencias digitales dinámicas e intuitivas. 💻 Me especializo en Angular, TypeScript y JavaScript, desarrollando aplicaciones centradas en la experiencia del usuario. 🌟 Me encanta combinar diseño y tecnología para crear aplicaciones que sean tan agradables de usar como de ver.
+<h3 align="right">🚀 Sobre mí </h3>
+🚀 Desarrollador Frontend | Angular 📍 Apasionado por la creación de aplicaciones web y móviles con Angular, TypeScript.  🚀 Desarrollador Frontend enfocado en construir experiencias digitales dinámicas e intuitivas. 💻 Me especializo en Angular, TypeScript y JavaScript, desarrollando aplicaciones centradas en la experiencia del usuario. 🌟 Me encanta combinar diseño y tecnología para crear aplicaciones que sean tan agradables de usar como de ver.
 
 👨‍💻 Todos mis proyectos están disponibles en [https://jimmygarcia.vercel.app/](https://jimmygarcia.vercel.app/)
 
