@@ -31,7 +31,7 @@
 <br>
 <!-------------------------->
 <br>
-👨‍💻 Mi portafolio [https://jimmygarcia.vercel.app/](https://jimmygarcia.vercel.app/)
+[![Portafolio](https://img.shields.io/badge/🌐%20Mi_Portafolio-000?style=for-the-badge&logo=github)](https://jimmygarcia.vercel.app/)
 
 📫 Contacto: **jimmygarcia470@gmail.com**
 
