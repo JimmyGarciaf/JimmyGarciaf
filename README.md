@@ -32,6 +32,7 @@
 <!-------------------------->
 <br>
 🚀 Ir a mi portafolio: https://jimmygarcia.vercel.app/
-<br>
+
+
 📫 Contacto: **jimmygarcia470@gmail.com**
 
