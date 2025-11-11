@@ -26,14 +26,10 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Angular-Light,js,typescript,css,html,mysql,sqlserver,git,github,docker,postman,oracle" />
+    <img src="https://skillicons.dev/icons?i=angularlight,js,typescript,css,html,tailwindcss,mysqllight,git,github,docker,postman" />
   </a>
 </p>
 <br>
 <!-------------------------->
 <br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
 
