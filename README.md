@@ -31,7 +31,7 @@
 <br>
 <!-------------------------->
 <br>
-Portafolio: **(https://jimmygarcia.vercel.app/)**
+👨‍💻 Mi portafolio [https://jimmygarcia.vercel.app/](https://jimmygarcia.vercel.app/)
 
 📫 Contacto: **jimmygarcia470@gmail.com**
 
