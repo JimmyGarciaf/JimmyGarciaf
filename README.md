@@ -2,8 +2,11 @@
 <h3 align="left">🚀 Sobre mí </h3>
 
 📍 Apasionado por la creación de aplicaciones web y móviles con Angular, TypeScript.
+
 🚀 Desarrollador Frontend enfocado en construir experiencias digitales dinámicas e intuitivas. 
+
 💻 Me especializo en Angular, TypeScript y JavaScript, desarrollando aplicaciones centradas en la experiencia del usuario. 
+
 🌟 Me encanta combinar diseño y tecnología para crear aplicaciones que sean tan agradables de usar como de ver.
 
 
