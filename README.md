@@ -1,33 +1,16 @@
-## ¡Hola! Soy Jimmy Garcia👋
+<h1 align="center">¡Hola! Soy Jimmy García 👋</h1>
+<h3 align="center">🚀 Desarrollador Frontend | Angular 📍 Apasionado por la creación de aplicaciones web y móviles con Angular, TypeScript. 🚀 Sobre mí 🚀 Desarrollador Frontend enfocado en construir experiencias digitales dinámicas e intuitivas. 💻 Me especializo en Angular, TypeScript y JavaScript, desarrollando aplicaciones centradas en la experiencia del usuario. 🌟 Me encanta combinar diseño y tecnología para crear aplicaciones que sean tan agradables de usar como de ver.
 
-🚀 Desarrollador Frontend | Angular
+👨‍💻 Todos mis proyectos están disponibles en [https://jimmygarcia.vercel.app/](https://jimmygarcia.vercel.app/)
 
-📍 Apasionado por la creación de aplicaciones web y móviles con Angular, TypeScript.
+- 💬 Pregúntame sobre **Angular, Javascript y TypeScript**
 
-🔥 Sobre mí
+- 📫 Cómo contactarme: **jimmygarcia470@gmail.com**
 
-* 💻 Desarrollador frontend enfocado en crear interfaces intuitivas y optimizadas.
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jimmy garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimmy garcia" height="30" width="40" /></a>
+</p>
 
-* 🎨 Interesado en Diseño UX/UI y mejores prácticas en desarrollo.
-
-* 📚 Siempre aprendiendo y mejorando mis habilidades.
-
-* 🛠 Pila tecnológica
-
-🔹 Idiomas: JavaScript, TypeScript
-
-🔹 Interfaz: Angular
-
-🔹 Estado global: Redux, Zustand
-
-🔹 Bases de datos: SQ Server, Oracle, MySql, Firebase
-
-🔹 Herramientas: Git/GitHub, Figma
-
-📫 Conéctate conmigo
-
-* 🌐 Portafolio
-
-* 🔗 LinkedIn
-
-¡Gracias por visitar mi perfil!
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
