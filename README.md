@@ -32,5 +32,6 @@
 <!-------------------------->
 <br>
 Portafolio: **jimmygarcia.vercel.app**
+
 📫 Contacto: **jimmygarcia470@gmail.com**
 
